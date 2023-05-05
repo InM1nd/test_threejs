@@ -1,4 +1,4 @@
-import {  } from "./projects.styled"
+import {  } from "./Projects.styled"
 
 const Projects = () => {
     return (
