@@ -1,11 +1,22 @@
+import {  } from "./Content.styled"
 
+
+import MenuButton from "./MenuButton/MenuButton"
+import Hero from "./Hero/Hero"
+import About from "./About/About"
+import Contact from "./Contact/Contact"
+import Projects from "./Projects/Projects"
 
 
 const Content = () => {
     return (
-        
-            // <Button>123</Button>
-        <div>213213213 </div>
+        <>
+        <MenuButton/>
+        <Hero/>
+        <Projects/>
+        <About/>
+        <Contact/>
+        </>
     )
 }
 

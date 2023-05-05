@@ -1,10 +1,8 @@
-
+import {  } from "./Header.styled"
 
 const Header = () => {
     return (
-        
-            // <Button>123</Button>
-        <div>213213213 </div>
+        <div>Header </div>
     )
 }
 

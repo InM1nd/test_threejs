@@ -1,9 +1,9 @@
-import { Button } from "./Footer.styled"
+import {  } from "./Footer.styled"
 
 const Footer = () => {
     return (
         <div>
-            123
+            Footer
         
         </div>
     )

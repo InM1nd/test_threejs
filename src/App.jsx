@@ -2,15 +2,16 @@ import Header from "./components/Header/Header"
 import Content from "./components/Content/Content"
 import Footer from './components/Footer/Footer'
 
-function App() {
-  
+import {Container} from './App.styled'
 
+
+function App() {
   return (
-    <>
-    <Header/>
-    <Content/>
-    <Footer/>
-    </>
+    <Container>
+      <Header/>
+      <Content/>
+      <Footer/>
+    </Container>
   )
 }
 
