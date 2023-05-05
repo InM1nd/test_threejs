@@ -1,11 +1,11 @@
 import {  } from "./Content.styled"
 
 
-import MenuButton from "./MenuButton/MenuButton"
-import Hero from "./Hero/Hero"
-import Contact from "./Contacts/Contacts"
-import Projects from "./Projects/Projects"
-import About from "./About/About"
+import MenuButton from "./MenuButton/MenuButton.jsx"
+import Hero from "./Hero/Hero.jsx"
+import Contact from "./Contacts/Contacts.jsx"
+import Projects from './Projects/Projects.jsx';
+import About from "./About/About.jsx"
 
 const Content = () => {
     return (
