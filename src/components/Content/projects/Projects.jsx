@@ -4,7 +4,7 @@ const Projects = () => {
     return (
         
             // <Button>123</Button>
-        <div>Projects </div>
+        <div>My Projects </div>
     )
 }
 
