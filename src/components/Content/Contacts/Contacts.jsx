@@ -1,4 +1,4 @@
-import {  } from "./Contact.styled"
+import {  } from "./Contacts.styled"
 
 
 const Contact = () => {

@@ -3,7 +3,7 @@ import {  } from "./Content.styled"
 
 import MenuButton from "./MenuButton/MenuButton"
 import Hero from "./Hero/Hero"
-import Contact from "./Contact/Contact"
+import Contact from "./Contacts/Contacts"
 import Projects from "./Projects/Projects"
 import About from "./About/About"
 
