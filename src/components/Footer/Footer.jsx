@@ -1,4 +1,4 @@
-import { Button } from "./footer.styled"
+import { Button } from "./Footer.styled"
 
 const Footer = () => {
     return (
