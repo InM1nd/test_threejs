@@ -1,4 +1,4 @@
-import {  } from "./Projects.styled"
+import {  } from "./Portfolio.styled"
 
 const Projects = () => {
     return (
