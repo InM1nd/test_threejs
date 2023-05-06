@@ -1,17 +1,19 @@
-import Header from "./components/Header/Header"
-import Content from "./components/Content/Content"
-import Footer from './components/Footer/Footer'
+import { Routes, Route } from 'react-router-dom';
+
+import SharedLayout from "./components/SharedLayout"
 
 import {Container} from './App.styled'
 
 
 function App() {
   return (
-    <Container>
-      <Header/>
-      <Content/>
-      <Footer/>
-    </Container>
+
+    
+      <Container>
+        <SharedLayout/>
+      </Container>
+  
+    
   )
 }
 
