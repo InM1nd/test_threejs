@@ -3,8 +3,9 @@ import {  } from "./Projects.styled"
 const Projects = () => {
     return (
         
-        <div>My Projects </div>
+            // <Button>123</Button>
+        <div>Projects </div>
     )
 }
 
-export default Projects
+export default Projects 
